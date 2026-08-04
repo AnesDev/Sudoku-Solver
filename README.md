@@ -5,7 +5,7 @@ A Python Sudoku solver implemented as part of the OpenMindsClub AI sub-team proj
 Features
 - Fast backtracking solver with simple heuristics
 - CSP-based solver with constraint propagation
-- 
+  
 Demo
 - Example input format (one line per row, use `0` or `.` for empty cells):
 ```
