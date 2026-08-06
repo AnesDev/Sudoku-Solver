@@ -11,7 +11,7 @@ A Python Sudoku solver implemented as part of the OpenMindsClub AI sub-team proj
 
 ## Team
 - Anεs Khelif
-- Ines Aouali
+- Inel Aouali
 - Dima Djema
 
 ## Run
